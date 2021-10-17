@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "error408", "OMG\error408.csproj", "{A2692456-6B0B-48B0-83D0-EAEC030F4B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2692456-6B0B-48B0-83D0-EAEC030F4B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2692456-6B0B-48B0-83D0-EAEC030F4B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2692456-6B0B-48B0-83D0-EAEC030F4B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2692456-6B0B-48B0-83D0-EAEC030F4B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA88CB07-EEF2-4D09-95EA-82663B22937D}
+	EndGlobalSection
+EndGlobal

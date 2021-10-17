@@ -1,0 +1,15 @@
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\bin\Debug\error408.exe
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\bin\Debug\error408.pdb
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\bin\Debug\Interop.WMPLib.dll
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\error408.csproj.AssemblyReference.cache
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\Interop.WMPLib.dll
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\error408.csproj.ResolveComReference.cache
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\OMG.extract.resources
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\OMG.video.resources
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\ERROR408.Properties.Resources.resources
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\error408.csproj.GenerateResource.cache
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\error408.csproj.CoreCompileInputs.cache
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\error408.exe
+C:\Users\Owner\画像\ドキュメント\デスクトップ\error408\OMG\obj\Debug\error408.pdb
